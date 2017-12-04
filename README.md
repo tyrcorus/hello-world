@@ -1,2 +1,2 @@
 # hello-world
-tutorial thing
+I enjoy seeing what is possible with coding.
